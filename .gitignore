@@ -1,0 +1,8 @@
+build/
+install/
+log/
+__pycache__/
+*.pyc
+.pytest_cache/
+# personal study guide, not part of the submission
+GUIDE_AR.md
