@@ -1,0 +1,13 @@
+# Goal: where the turtle must go (x, y, yaw)
+TargetPose target
+---
+# Result
+bool success
+float32 distance_error
+float32 yaw_error
+string message
+---
+# Feedback (published while moving)
+float32 distance_remaining
+float32 yaw_remaining
+string phase
